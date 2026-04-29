@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales Analytics Dashboard — Power BI
+# 🛒 Blinkit Sales Analytics Dashboard - Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -15,9 +15,9 @@ This project delivers an end-to-end business intelligence solution for **Blinkit
 ## 🎯 Business Requirement
 
 To conduct a comprehensive analysis of Blinkit's:
-- **Sales Performance** — tracking revenue across products and outlets
-- **Customer Satisfaction** — measuring average ratings by item and outlet
-- **Inventory Distribution** — understanding item spread across store types and tiers
+- **Sales Performance** - tracking revenue across products and outlets
+- **Customer Satisfaction** - measuring average ratings by item and outlet
+- **Inventory Distribution** - understanding item spread across store types and tiers
 
 ---
 
@@ -57,7 +57,7 @@ blinkit-powerbi-dashboard/
 ├──  Blinkit_Dashboard.pbix          # Power BI dashboard file
 │
 ├── 📁 Screenshots/
-│   └── dashboard.png          # Dashboard preview image
+│   └── dashboard.png         # Dashboard preview image
 │
 └── README.md
 ```
@@ -84,6 +84,9 @@ blinkit-powerbi-dashboard/
 ## 📷 Dashboard Preview
 
 > ![Dashboard Preview](Screenshots/dashboard1.png)
+> 
+> ![Dashboard Preview](Screenshots/dashboard2.png)
+
 
 ---
 
