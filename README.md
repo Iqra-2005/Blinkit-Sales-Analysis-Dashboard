@@ -54,17 +54,12 @@ To conduct a comprehensive analysis of Blinkit's:
 ```
 blinkit-powerbi-dashboard/
 │
-├── 📁 Dataset/
-│   └── BlinkIT Grocery Data.xlsx       # Raw data source
+├──  BlinkIT Grocery Data.xlsx       # Raw data source
 │
-├── 📁 Dashboard/
-│   └── Blinkit_Dashboard.pbix          # Power BI dashboard file
-│
-├── 📁 SQL Queries/
-│   └── blinkit_analysis_queries.sql    # SQL used for data validation & prep
+├──  Blinkit_Dashboard.pbix          # Power BI dashboard file
 │
 ├── 📁 Screenshots/
-│   └── dashboard_overview.png          # Dashboard preview image
+│   └── dashboard.png          # Dashboard preview image
 │
 └── README.md
 ```
