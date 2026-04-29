@@ -94,7 +94,7 @@ blinkit-powerbi-dashboard/
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/blinkit-powerbi-dashboard.git
+   git clone https://github.com/Iqra-2005/Blinkit-Sales_Analysis-Dashboard.git
    ```
 
 2. **Open the dataset** - Load `BlinkIT Grocery Data.xlsx` in Power BI Desktop if prompted to reconnect the data source
