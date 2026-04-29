@@ -1,8 +1,6 @@
 # 🛒 Blinkit Sales Analytics Dashboard — Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 > A comprehensive Power BI dashboard analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution — built to surface actionable insights across outlets, product types, and geographies.
 
@@ -78,9 +76,8 @@ blinkit-powerbi-dashboard/
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI Desktop** — Dashboard design, DAX measures, interactive visuals
-- **SQL** — Data extraction, transformation, and validation queries
-- **Microsoft Excel** — Raw dataset source
+- **Power BI Desktop** - Dashboard design, DAX measures, interactive visuals
+- **Microsoft Excel** - Raw dataset source
 
 ---
 
@@ -88,7 +85,7 @@ blinkit-powerbi-dashboard/
 
 > *(Add a screenshot of your Power BI dashboard here)*
 > 
-> `![Dashboard Preview](Screenshots/dashboard_overview.png)`
+> `![Dashboard Preview](Screenshots/dashboard1.png)`
 
 ---
 
@@ -107,12 +104,6 @@ blinkit-powerbi-dashboard/
 
 ---
 
-## 📬 Contact
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
-
----
 
 ⭐ *If you found this project helpful, consider giving it a star!*
