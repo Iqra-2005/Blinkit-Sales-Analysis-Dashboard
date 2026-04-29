@@ -83,9 +83,7 @@ blinkit-powerbi-dashboard/
 
 ## 📷 Dashboard Preview
 
-> *(Add a screenshot of your Power BI dashboard here)*
-> 
-> `![Dashboard Preview](Screenshots/dashboard1.png)`
+> ![Dashboard Preview](Screenshots/dashboard1.png)
 
 ---
 
